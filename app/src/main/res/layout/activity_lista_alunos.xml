@@ -15,7 +15,7 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:text="+"
-        android:textColor="#FFFFFF"
+        android:textColor="@color/colorTextoBotao"
         android:textSize="25sp"
         android:elevation="6dp"
         android:id="@+id/lista_novoAluno"
